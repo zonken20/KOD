@@ -13,7 +13,7 @@ using NLog;
 namespace Produktionslager
 {
    /// <summary>
-   /// Programmerare:Ted Olsson, Edgar Bonnevie, Jonathan Halvarsson
+   /// Programmerare:Ted Olsson
    /// Denna klass är inloggningsfönstret till programmet, Ifall användaren skriver in rätt uppgifter som finns på databasen så kommer man till startsidan.
    /// </summary>
    
