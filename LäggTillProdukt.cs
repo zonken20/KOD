@@ -14,7 +14,7 @@ namespace Produktionslager
     public partial class LäggTillProdukt : Form
     {
         /// <summary>
-        /// Programmerare:Ted Olsson, Edgar Bonnevie, Jonathan Halvarsson
+        /// Programmerare:Ted Olsson
         /// Denna klass låter en lägga till en ny produkt, användaren ska skriva in vilka komponenter samt antalet som produkten ska innehålla.
         /// </summary>
         /// 
